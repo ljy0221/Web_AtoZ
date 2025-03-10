@@ -1,2 +1,2 @@
-# Web_boot
-Web_boot_camp for myself
+# Web_AtoZ
+Start from HTML to the end! Let's deep dive in
